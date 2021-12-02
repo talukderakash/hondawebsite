@@ -1,0 +1,40 @@
+.bg-cbr-honda{
+    background: #264653;
+}
+.font-design{
+    font-family: poppens;
+}
+.gray-scal{
+    filter: grayscale(1) brightness(0.5);
+   
+}
+
+.images-sizing img{
+    height: 149px;
+    width: 149px;
+}
+.start-color{
+    color: chocolate;
+}
+
+
+
+
+/* extra part */
+
+.bike-card{
+    transition: transform 0.5s ease-in-out;
+}
+.bike-card:hover{
+    transform: scale(1.1);
+}
+.bike-btn{
+    border: 0;
+}
+.bike-btn:hover{
+    background-color: #DC3545;
+    border: 0;
+}
+
+
+
